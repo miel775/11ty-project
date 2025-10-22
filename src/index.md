@@ -1,2 +1,4 @@
-# Hello
-This is a markdown.
+---
+title: My first page
+layout: base.njk
+---
